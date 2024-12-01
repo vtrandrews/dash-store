@@ -15,7 +15,7 @@
 - **Next.js**: Framework React para desenvolvimento de sites otimizados e escaláveis.
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
 - **TypeScript**: Superconjunto de JavaScript para um código mais seguro e escalável.
-- **Redux/Context API**: Gerenciamento de estado global do aplicativo.
+- **React Hooks**: Gerenciamento de estado global do aplicativo.
 - **Styled-Components/Material-UI**: Ferramentas para estilização moderna e responsiva.
 - **Axios/Fetch**: Para consumir dados da API e exibir as informações dos produtos.
 
